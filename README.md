@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tangmin1983
-- 👀 I’m interested in new efficient compliment language 
+- 👀 I’m interested in new efficient Assembly Language 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on futures data development 
 - 📫 You can reach me 415315268@qq.com
